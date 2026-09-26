@@ -1,6 +1,6 @@
 // Paste your final links here. The two buttons on the home page use these values.
 const BROCHURE_URL=''; // Google Drive brochure link
-const EVENT_REGISTRATION_URL=''; // Google Form / Google Sheet registration link
+const EVENT_REGISTRATION_URL=''; https://docs.google.com/spreadsheets/d/1ll3WSmmYoMrOaPJMRCKyGCP9Z8eD9Tfo/edit?usp=drivesdk&ouid=113367413386334836636&rtpof=true&sd=true
 
 const categories=[
  {slug:'literary',name:'LITERARY',desc:'Literary League, PIMS Villa, Medical MedMaster, Cinema Clash & MBBS Through Ages.',color:'yellow',icon:'book'},
